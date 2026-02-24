@@ -35,3 +35,16 @@ The following M3 components were implemented to satisfy the project rubric:
 
 ### 📸 Screenshot
 ![Running App Screenshot](FlowLayout.png)
+
+# AI DISCLOSURE
+
+### Universal AI Statment 
+I utilized Gemini to ensure that I met each of the project requirements, as well as prompting it for assistance with commenting and ensuring my code followed standard Kotlin conventions. In several instances, AI-generated comments were omitted or manually rewritten to ensure accuracy and flow. Because the AI occasionally "hallucinated" requirements or skipped constraints, I manually verified every line of code against the rubric, using Gemini primarily as a second pair of eyes and a brainstorming partner.
+
+Additionally, I used it to draft my READMES, though I occassionally needed to omit unneccessary (and frankly, sometimes strange) details.
+
+---
+
+### Q3: Flow Layout Tag Browser
+* **Data Generation:** Gemini assisted in generating potential tag ideas for the "Cafe Finder" theme and filter options for the vertical `FlowColumn`.
+* **Icon Discovery:** Gemini helped identify the correct "back" icon (`Icons.AutoMirrored.Filled.ArrowBack`) to ensure the `TopAppBar` looked polished and intuitive. 
